@@ -14,3 +14,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 Simple interest = (Principal × Rate × Time) / 100
 
+
+2023 XYZ, Inc.
